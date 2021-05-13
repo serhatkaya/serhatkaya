@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **angular, .netcore**
 
-- 📫 How to reach me **serhatkaya.01@gmail.com**
+- 📫 How to reach me **serhatkaya.sr@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
