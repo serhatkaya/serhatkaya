@@ -26,4 +26,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=serhatkaya&show_icons=true&locale=en&layout=compact" alt="serhatkaya" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=serhatkaya&show_icons=true&locale=en" alt="serhatkaya" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=serhatkaya&show_icons=true&locale=en" alt="serhatkaya" /></p> !-->
