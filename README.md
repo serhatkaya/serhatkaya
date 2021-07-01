@@ -5,8 +5,6 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=serhatkaya" alt="serhatkaya" /></a> </p> !-->
 
-- 🌱 I’m currently learning **ionicframework**
-
 - 👨‍💻 All of my projects are available at [http://github.com/serhatkaya](http://github.com/serhatkaya)
 
 - 💬 Ask me about **angular, .netcore**
