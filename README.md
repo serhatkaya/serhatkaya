@@ -11,15 +11,7 @@
 
 <h2> About me</h2>
 
-
-
-
-- 🔭 I’m currently working on my portfolio.
-
-
 - 🌱 I’m currently learning nestjs. 
-
-- 👯 I’m looking to collaborate on open source projects. 
 
 - 💬 Talk to me about JavaScript, ASP .NETCore, MSSQL, Angular, NestJS. 
 
