@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NestJS, IONIC.**
 
-- 💬 Ask me about **Angular**,**.NETCore**, **Typescript, Javascript**
+
 
 - 📫 How to reach me **serhatkaya.sr@gmail.com**
 
