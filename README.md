@@ -4,7 +4,7 @@
 - 🔭 I’m currently learning React Native  
   
 
-- ❓ Ask me about anything related to Angular.  
+- ❓ Ask me about Angular.  
   
 
 <br/>  
