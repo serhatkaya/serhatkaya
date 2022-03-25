@@ -1,7 +1,7 @@
 ### <div align="center">Passionate software developer from Turkey. Always a learner and willing to improve himself with new technologies and use them to solve real-life problems.</div>  
   
 
-- 🔭 I’m currently learning React Native  
+- 🔭 I’m currently learning React & React Native  
   
 
 - ❓ Ask me about Angular.  
