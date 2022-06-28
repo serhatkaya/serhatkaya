@@ -54,7 +54,7 @@
 
 <br />
 <div align="center">
-<span>El amor todo lo puede.</span>
+<span>el amor todo lo puede</span>
 </div>
 
 
