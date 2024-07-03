@@ -42,6 +42,6 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=tg4qoohvqks1g6o6uqixuj17r&cover_image=true&theme=default" /></div>
+<div align="center"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=tg4qoohvqks1g6o6uqixuj17r&cover_image=true&theme=default" /></div>
 
 <br />
